@@ -50,8 +50,12 @@
 
 ## 삼프로TV <a href="#3protv" id="3protv"></a>
 
-* [선과 악을 날 때부터 구분할 수 있나요? | 박문호 뇌과학자 \[신과대화\]](3protv/or.md)
+* [선과 악을 날 때부터 구분할 수 있나요? | 박문호 뇌과학자 \[신과대화\]](3protv/can-you-distinguish-between-good-and-evil-from-birth.md)
 * [천주교의 공식적인 위계와 권위, 예수님의 뜻일까ㅣ성기헌 바오로 가톨릭대학교 성의교정 신부 \[더 릴리전\]](3protv/the-official-hierarchy-and-authority-of-the-catholic-church.md)
+* [팔레스타인과 이스라엘이 화해할 수 없는 이유 \[인남식 교수의 중동학개론 5화\]](3protv/why-palestine-and-israel-cannot-reconcile.md)
+* [암호화폐 끝장토론 차현진 국장 vs 인호 교수 \[신과함께 외전\]](3protv/cryptocurrency-end-debate.md)
+* [2023년 세상은 이렇게 바뀐다! (ft. 송길영 부사장)](3protv/this-is-how-the-world-will-change-in-2023.md)
+* [기독교인들이 예수를 신으로 보는 근거 f.배덕만 기독연구원 느헤미야 교수](3protv/the-basis-on-which-christians-view-jesus-as-god.md)
 
 ## Jordan B Peterson
 
@@ -59,6 +63,8 @@
 * [Why AIs Deceive You | Marc Andreessen](jordan-b-peterson/why-ais-deceive-you.md)
 * [조던 피터슨 | 남녀가 다를 수 밖에 없는 이유와 잘못된 성적 평등의 이해](jordan-b-peterson/why-men-and-women-must-be-different.md)
 * [신은 존재해야만 한다.(ft 무신론의 문제점)](jordan-b-peterson/god-must-exist.md)
+* [행복하게 살기 어렵지 않습니다 f.강성용 서울대학교 남아시아센터장 \[신과대화\]](jordan-b-peterson/its-not-hard-to-live-happily.md)
+* [과학이 발전한 시대에도 종교가 계속 되는 이유 f.성해영 서울대학교 종교학과 교수 \[신과함께\]](jordan-b-peterson/why-religion-continues-even-in-an-age-of-scientific-advancement.md)
 
 ## &#x20;Andrew Huberman
 
