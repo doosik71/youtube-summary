@@ -27,6 +27,10 @@
 
 * [박문호박사\_우주와 인간, 존재에서 관계로](bbskorea/the-universe-and-humans-from-existence-to-relationship.md)
 
+## 한국불교 대표방송 BTN <a href="#btnworld" id="btnworld"></a>
+
+* [영혼, 영가, 귀신이 정말로 존재하나요? \[💡전설의법문\] 법륜스님](btnworld/do-souls-spirits-and-ghosts-really-exist.md)
+
 ## 너진똑 NJT BOOK
 
 * [반야심경 100번 읽은 것처럼 만들어드림](njt-book/ill-make-it-seem-like-youve-read-the-heart-sutra-100-times.md)
@@ -43,10 +47,11 @@
 * [사람은 안 바뀔까? 진짜?\_칼 융](njt-book/people-dont-change-really-carl-jung.md)
 * [무조건 가능한 ‘계획 지키는 법’ (feat. 노벨경제학상)](njt-book/how-to-keep-a-plan-that-is-absolutely-possible.md)
 * [당신이 불안한 "진짜" 이유 5가지](njt-book/5-real-reasons-youre-anxious.md)
+* [\[부의 추월차선\] 100번 읽은 것처럼 만들어드림](njt-book/wealth-fast-lane.md)
 
 ## 인문학 브런치 <a href="#btnworld" id="btnworld"></a>
 
-* [나도 모르게 말이 튀어나올 때, 입조심 해야하는 뇌과학적인 이유와 방법 l #박문호 박사](btnworld/when-words-come-out-without-you-knowing.md)
+* [나도 모르게 말이 튀어나올 때, 입조심 해야하는 뇌과학적인 이유와 방법 l #박문호 박사](btnworld-1/when-words-come-out-without-you-knowing.md)
 
 ## 삼프로TV <a href="#3protv" id="3protv"></a>
 
@@ -73,3 +78,7 @@
 ## 지혜의 빛 : 인문학의 숲 <a href="#xhsja" id="xhsja"></a>
 
 * [실존주의란 무엇인가?](xhsja/what-is-existentialism.md)
+
+## 스터디언 <a href="#studian365" id="studian365"></a>
+
+* ["이런 경우가 제일 위험합니다" 늙어서도 싱싱한 뇌를 유지하려면!? (서울대 뇌인지과학과 이인아 교수)](studian365/how-to-maintain-a-fresh-brain-even-in-old-age.md)
