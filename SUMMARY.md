@@ -82,3 +82,11 @@
 ## 스터디언 <a href="#studian365" id="studian365"></a>
 
 * ["이런 경우가 제일 위험합니다" 늙어서도 싱싱한 뇌를 유지하려면!? (서울대 뇌인지과학과 이인아 교수)](studian365/how-to-maintain-a-fresh-brain-even-in-old-age.md)
+
+## 안될공학 - IT 테크 신기술 <a href="#unrealtech" id="unrealtech"></a>
+
+* [딥씨크 공개한 기술대로 했더니... 30달러로 되더라 | 버클리 박사과정 학생이 증명한 딥씨크 알고리즘, 팩트체크](unrealtech/if-you-do-it-according-to-the-technology-released-by-deepseek.md)
+* [잘못 알고 계십니다... AI 빅테크 무너진다? 중국AI 딥씨크 논란 | 논문 분석 | NVIDIA, OpenAI는 끝?](unrealtech/youre-mistaken-ai-big-tech-is-collapsing.md)
+* [구글 충격적인 양자컴퓨터 윌로우 공개 | 비트코인 해킹? IONQ? | 슈퍼컴 10^25년, 구글 양자컴퓨터로 5분 | 양자 오류 정정 (QECC) | 이온트랩 방식과의 차이](unrealtech/google-unveils-shocking-quantum-computer-willow.md)
+* [이건 미쳤는데요?! 테슬라 옵티머스 젠2 발표, 왜 미쳤다고 하는지 분석합니다.](unrealtech/this-is-crazy-tesla-optimus-gen2-announced.md)
+* [딥씨크 개발, NVIDIA CUDA 해자가 무너진다…? 딥시크 AI 퀀트 엔지니어들이 선택한 CUDA 우회 개발의 의미 | PTX](unrealtech/deepseeker-development-nvidia-cuda-moat-collapses.md)
